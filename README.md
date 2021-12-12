@@ -17,7 +17,7 @@ What this system does is go to a more important event and then come back
 
 
 #Tasks:
-- [] Add and remove Event by group or id
-- [] Get all event object by group or id
-- [] Timer Loops by group or id
-- [] add Checker Event interrupts by group or id
+- [ ] Add and remove Event by group or id
+- [ ] Get all event object by group or id
+- [ ] Timer Loops by group or id
+- [ ] add Checker Event interrupts by group or id
