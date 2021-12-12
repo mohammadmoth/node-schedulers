@@ -1,0 +1,29 @@
+{
+  "name": "node-schedulers-async",
+  "version": "0.0.1",
+  "description": "node schedulers with block by group and priority",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadmoth/node-schedulers.git"
+  },
+  "keywords": [
+    "node",
+    "schedulers",
+    "priority",
+    "group"
+  ],
+  "author": {
+    "name": "Mohammad Malla Othman",
+    "email": "mhd@othman.info",
+    "url": "https://othman.info"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mohammadmoth/node-schedulers/issues"
+  },
+  "homepage": "https://github.com/mohammadmoth/node-schedulers#readme"
+}
